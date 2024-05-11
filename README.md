@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ric Ardo!
 👩🏻‍💻  I'm a Computer Engineering student. <br/>
-👩🏻‍🎓 Studied [Computer Engineering] at the Technological Institutes of the Philippines.<br/>
-🎨 Watching videos about Computer Engineering, tech, and productivity on  [YouTube](https://www.youtube.com/@jonathantaylar1001)<br/>
+👩🏻‍🎓 I studied Computer Engineering at the Technological Institutes of the Philippines.<br/>
+🎨 I enjoy watching videos that enrich my understanding, particularly those related to my profession, health, as well as those that provide stress relief on [YouTube](https://www.youtube.com/@jonathantaylar1001)<br/>
 🌷 My github pages https://riccalder.github.io/ <br/>
 💭 I'm currently learning everything related to computers.!<br/>
 
